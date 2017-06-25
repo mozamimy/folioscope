@@ -15,4 +15,4 @@ deploy:
   script:
     - "./bin/deploy"
   on:
-    branch: master
+    branch: continuous-delilivery
